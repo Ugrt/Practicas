@@ -1,4 +1,4 @@
 Practicas
 =========
 
-Programas en Python, Java y C++.
+Repositorio de Practicas en C++, Java y Python. 
